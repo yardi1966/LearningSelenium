@@ -1,0 +1,10 @@
+com\orange\hrm\pages\LoginPage.class
+com\utility\ExcelUtility.class
+com\orange\hrm\test\LoginTest.class
+com\report\ITestListenerDemo.class
+com\test\OrangeHRMTest.class
+com\orange\hrm\test\HomePageTest.class
+com\orange\hrm\test\BaseTest.class
+com\report\ExtentReportUtils.class
+com\utility\PropertiesUtility.class
+com\orange\hrm\pages\HomePage.class
