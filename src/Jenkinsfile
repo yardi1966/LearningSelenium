@@ -1,9 +1,9 @@
 pipeline {
 	agent any
 	stages {
-		stage('Run Tests'){
+		stage('Run Tests') {
 			steps {
-				sh './mvnw clean test'
+				sh './mvnw clean test' 
 			}
 		}
 	}
